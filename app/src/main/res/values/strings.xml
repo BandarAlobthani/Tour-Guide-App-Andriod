@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+
+    <!-- Category name for Riyadh [CHAR LIMIT=20] -->
+    <string name="category_riyadh">Riyadh</string>
+
+    <!-- Category name for Jeddah [CHAR LIMIT=20] -->
+    <string name="category_jeddah">Jeddah</string>
+
+    <!-- Category name for Alkhobar [CHAR LIMIT=20] -->
+    <string name="category_alkhobar">Alkhobar</string>
+
+    <!-- Category name for Abha [CHAR LIMIT=20] -->
+    <string name="category_abha">Abha</string>
+
+    <!-- Riyadh string -->
+    <string name="riyadh_place_one">Saudi Folkloric Show</string>
+    <string name="riyadh_description_one">A showcase of one of Saudi Arabia traditions</string>
+    <string name="riyadh_place_two">Magida El Roumi Concert</string>
+    <string name="riyadh_description_two">Magida El Roumi she will perform at the king museum</string>
+    <string name="riyadh_place_three">Shadow Land</string>
+    <string name="riyadh_description_three">A show that captivated about 1 million viewers around the world</string>
+    <string name="riyadh_place_four">The Globe Restaurant</string>
+    <string name="riyadh_description_four">Fine Dining</string>
+    <string name="riyadh_place_five">Cafe Bateel</string>
+    <string name="riyadh_description_five">Cafe with View</string>
+    <string name="riyadh_place_six">Najd Village</string>
+    <string name="riyadh_description_six">Local Restaurant</string>
+    <string name="riyadh_place_seven">National Museum</string>
+    <string name="riyadh_description_seven">The history of Saudi Arabia is the major focus of this museum</string>
+    <string name="riyadh_place_eight">King Abdullah Park</string>
+    <string name="riyadh_description_eight">This park is nice to walk through and just sit on the grass</string>
+    <string name="riyadh_place_nine">Kingdom Centre Tower</string>
+    <string name="riyadh_description_nine">It is worth going to the top at least once and looking out over Riyadh</string>
+    <string name="riyadh_place_ten">Tahlia Street</string>
+    <string name="riyadh_description_ten">An excellent place to take a walk and enjoy many restaurants and coffees</string>
+
+    <!-- Jeddah string -->
+    <string name="jeddah_place_one">Al Comedy Club - LCMA</string>
+    <string name="jeddah_description_one">Enjoy the best comedy alliance in “LCMA”</string>
+    <string name="jeddah_place_two">Barney Live! World Tour</string>
+    <string name="jeddah_description_two">BARNEY LIVE! World Tour with the help of children’s imagination</string>
+    <string name="jeddah_place_three">The European Entertainment Show</string>
+    <string name="jeddah_description_three">The European Entertainment Show</string>
+    <string name="jeddah_place_four">Texas Roadhouse</string>
+    <string name="jeddah_description_four">American, Steakhouse</string>
+    <string name="jeddah_place_five">Al Baik</string>
+    <string name="jeddah_description_five">Saudi Fast Food</string>
+    <string name="jeddah_place_six">IHOP</string>
+    <string name="jeddah_description_six">Breakfast</string>
+    <string name="jeddah_place_seven">Jeddah Cornish</string>
+    <string name="jeddah_description_seven">Definitely worth a visit to see the new seafront</string>
+    <string name="jeddah_place_eight">King Fountain</string>
+    <string name="jeddah_description_eight">This 853-foot fountain is reputed to be the tallest fountain in the world</string>
+    <string name="jeddah_place_nine">Red Sea Mall</string>
+    <string name="jeddah_description_nine">Red Sea is a good mall spread on large area</string>
+    <string name="jeddah_place_ten">Balad</string>
+    <string name="jeddah_description_ten">This vibrant marketplace with multi-storied mud brick and stone buildings sells everything</string>
+
+    <!-- Alkhobar string -->
+    <string name="alkhobar_place_one">Hollywood - Khobar</string>
+    <string name="alkhobar_description_one">Hollywood Events</string>
+    <string name="alkhobar_place_two">Scitech Technology Center</string>
+    <string name="alkhobar_description_two">There are a lot of displays that provide a good learning opportunity for kids</string>
+    <string name="alkhobar_place_three">Half-moon beach</string>
+    <string name="alkhobar_description_three">Nice walk and much activity. Enough place to have a picnic and enjoy family</string>
+    <string name="alkhobar_place_four">Al-Sanbok Seafood Restaurant</string>
+    <string name="alkhobar_description_four">Local Restaurant</string>
+    <string name="alkhobar_place_five">Primavera Restaurant</string>
+    <string name="alkhobar_description_five">Fine Dining</string>
+
+    <!-- Abha string -->
+    <string name="abha_place_one">Abha Hill Climb</string>
+    <string name="abha_description_one">19 racer which will perform while crowd be cheering on the sideways</string>
+    <string name="abha_place_two">Saudi Glow</string>
+    <string name="abha_description_two">Our lanterns will light three cities, as if they were one</string>
+    <string name="abha_place_three">Cable Car</string>
+    <string name="abha_description_three">One of the best thing if planing to visit ABHA is cable car experience</string>
+    <string name="abha_place_four">Abha Palace Restaurant</string>
+    <string name="abha_description_four">This restaurant on a number of types of delicious food and wonderful</string>
+    <string name="abha_place_five">Fresh</string>
+    <string name="abha_description_five">Local Restaurant</string>
+
+</resources>

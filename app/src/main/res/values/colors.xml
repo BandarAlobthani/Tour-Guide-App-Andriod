@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#004D40</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#212121</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#FFFDE7</color>
+
+    <!-- Background color for the riyadh category -->
+    <color name="category_riyadh">#C51162</color>
+
+    <!-- Background color for the jeddah category -->
+    <color name="category_jeddah">#FB8C00</color>
+
+    <!-- Background color for the alkhobar category -->
+    <color name="category_alkhobar">#D50000</color>
+
+    <!-- Background color for the abha category -->
+    <color name="category_abha">#00BFA5</color>
+</resources>
